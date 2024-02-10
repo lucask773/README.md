@@ -5,7 +5,7 @@
 
 - 👯 Tambem estou compartilhando no linkedin [Perfil Linkedin](https://www.linkedin.com/in/kevin-lucas-5414ab230/)
 
-- 💬 Me pergunte sobre **SQL, Excel**
+- 💬 Me pergunte sobre **SQL, Excel, Python**
 
 - 📫 Como entrar em contato comigo? **lucask773@gmail.com**
 
